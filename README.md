@@ -18,7 +18,7 @@
 
 ## Circuit Skematic:
 
-    ![Circuit-Skema](img/skema.jpg)
+![Circuit-Skema](img/skema.jpg)
 
 ## Wiring PinOut on Arduino:
 
